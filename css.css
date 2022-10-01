@@ -1,0 +1,51 @@
+
+
+
+body{
+
+    background-image: url(https://www.leydehumedalesya.org/theme/img/paisaje2.png);
+    
+    
+    
+    
+     
+}
+img.redimension{
+    max: widht 50px;
+    max-height: 50%;
+}
+
+h1{
+    font-size: xx-large;
+}
+
+h3{
+    color:crimson;
+
+}
+h2{
+
+    color:chartreuse;
+}
+p1{
+    color: darkgreen; 
+    font-style: oblique;
+    font-size: medium;
+}  
+p2{
+color: rgb(184, 11, 11);
+} 
+img.redimension{
+    max-width:50%;
+    max-height: 50%;
+
+}
+
+
+    
+
+
+   
+
+ 
+
