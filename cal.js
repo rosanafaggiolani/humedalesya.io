@@ -25,7 +25,7 @@ if (hora >=6 && hora<=12){
    if (codigo==1){
     alert("tu total a pagar es 1800, no pagas envio");
    }else {
-   function calculaPrecioTotal(precio) {-
+   function calculaPrecioTotal(precio) {
     var gastosEnvio = 800;
     var precioTotal = precio + gastosEnvio;
     alert("Pagas el envío, el total a pagar es: " + precioTotal);
